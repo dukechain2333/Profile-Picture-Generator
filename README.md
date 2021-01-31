@@ -1,1 +1,1 @@
-# ProfilePictureGenerater
+# ProfilePictureGenerator
